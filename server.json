@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/phishtank",
+  "title": "Phishtank",
+  "description": "PhishTank MCP — wraps PhishTank API (checkurl.phishtank.com)",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/phishtank",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-phishtank",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/phishtank/mcp"
+    }
+  ]
+}
