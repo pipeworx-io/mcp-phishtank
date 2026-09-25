@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/phishtank",
   "title": "Phishtank",
   "description": "PhishTank MCP — wraps PhishTank API (checkurl.phishtank.com)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/phishtank",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-phishtank",
