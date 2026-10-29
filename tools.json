@@ -1,0 +1,18 @@
+[
+  {
+    "name": "check_url",
+    "description": "Check if a URL is a known phishing site in the PhishTank database. Returns whether it is a phish, verification status, and details URL. Example: check_url(\"http://suspicious-site.example.com/login\").",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "url": {
+          "type": "string",
+          "description": "The full URL to check for phishing (e.g., \"http://example.com/fake-login\")"
+        }
+      },
+      "required": [
+        "url"
+      ]
+    }
+  }
+]
