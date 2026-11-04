@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-phishtank",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "PhishTank MCP — wraps PhishTank API (checkurl.phishtank.com)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "phishtank",
     "gatewaySlug": "phishtank",
-    "sourceHash": "v1-52335908d57a8493085a90f89ecc8b2decb0c8bd79326be1d0026392745e1615",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-c26716acd0ef36aef6f226ce939b53791e5f724e05ee80363d1da09e4100fd84",
+    "sourceCommit": "243a06a6ca2d3b6075325f3b66a1468d0a2eb603"
   }
 }
